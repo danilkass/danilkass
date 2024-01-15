@@ -4,5 +4,3 @@
 - https://t.me/dan9banan
 - danilkas1904@gmail.com
 
-Посмотри мои работы на codepen
-- https://codepen.io/danilkass
